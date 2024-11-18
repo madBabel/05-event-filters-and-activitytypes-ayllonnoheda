@@ -25,4 +25,4 @@ explorar las diferentes formas en que podemos utilizar event-filters y activity 
 8. Edite el archivo README.md en la raíz del repositorio con los cambios que considere oportunos y confirme los cambios en una la rama creada anteriormente PASO 8 PARA PROBAR LA RAMA feat-1-act-Types
 9. Confirmar los cambios y subir (push) el código. 
 10. Crear un PR para fusionar la rama `feat-1-act-Types` en `develop`. Inspeccionar el resultado de la ejecución del workflow.
-11. Edite de nuevo el archivo README.md en la rama `feat-1-act-Types`, confirme los cambios y suba (push) el código.  Inspeccionar el resultado de la ejecución del workflow.
+11. Edite de nuevo el archivo README.md en la rama `feat-1-act-Types`, confirme los cambios y suba (push) el código.  Inspeccionar el resultado de la ejecución del workflow. PROBANDO OTRA VEZ LA RAMA
